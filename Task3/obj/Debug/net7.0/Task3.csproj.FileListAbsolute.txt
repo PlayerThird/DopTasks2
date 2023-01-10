@@ -1,0 +1,15 @@
+G:\GB\C#\Доп дз по 3му семинару\Task3\obj\Debug\net7.0\Task3.csproj.AssemblyReference.cache
+G:\GB\C#\Доп дз по 3му семинару\Task3\obj\Debug\net7.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Доп дз по 3му семинару\Task3\obj\Debug\net7.0\Task3.AssemblyInfoInputs.cache
+G:\GB\C#\Доп дз по 3му семинару\Task3\obj\Debug\net7.0\Task3.AssemblyInfo.cs
+G:\GB\C#\Доп дз по 3му семинару\Task3\obj\Debug\net7.0\Task3.csproj.CoreCompileInputs.cache
+G:\GB\C#\Доп дз по 3му семинару\Task3\bin\Debug\net7.0\Task3.exe
+G:\GB\C#\Доп дз по 3му семинару\Task3\bin\Debug\net7.0\Task3.deps.json
+G:\GB\C#\Доп дз по 3му семинару\Task3\bin\Debug\net7.0\Task3.runtimeconfig.json
+G:\GB\C#\Доп дз по 3му семинару\Task3\bin\Debug\net7.0\Task3.dll
+G:\GB\C#\Доп дз по 3му семинару\Task3\bin\Debug\net7.0\Task3.pdb
+G:\GB\C#\Доп дз по 3му семинару\Task3\obj\Debug\net7.0\Task3.dll
+G:\GB\C#\Доп дз по 3му семинару\Task3\obj\Debug\net7.0\refint\Task3.dll
+G:\GB\C#\Доп дз по 3му семинару\Task3\obj\Debug\net7.0\Task3.pdb
+G:\GB\C#\Доп дз по 3му семинару\Task3\obj\Debug\net7.0\Task3.genruntimeconfig.cache
+G:\GB\C#\Доп дз по 3му семинару\Task3\obj\Debug\net7.0\ref\Task3.dll

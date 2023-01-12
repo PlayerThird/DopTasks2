@@ -1,0 +1,15 @@
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\bin\Debug\net6.0\FullProject.exe
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\bin\Debug\net6.0\FullProject.deps.json
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\bin\Debug\net6.0\FullProject.runtimeconfig.json
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\bin\Debug\net6.0\FullProject.dll
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\bin\Debug\net6.0\FullProject.pdb
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\obj\Debug\net6.0\FullProject.csproj.AssemblyReference.cache
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\obj\Debug\net6.0\FullProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\obj\Debug\net6.0\FullProject.AssemblyInfoInputs.cache
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\obj\Debug\net6.0\FullProject.AssemblyInfo.cs
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\obj\Debug\net6.0\FullProject.csproj.CoreCompileInputs.cache
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\obj\Debug\net6.0\FullProject.dll
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\obj\Debug\net6.0\refint\FullProject.dll
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\obj\Debug\net6.0\FullProject.pdb
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\obj\Debug\net6.0\FullProject.genruntimeconfig.cache
+G:\GB\C#\Доп дз по 3му семинару\FullProject\FullProject\obj\Debug\net6.0\ref\FullProject.dll

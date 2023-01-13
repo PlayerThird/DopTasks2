@@ -1,7 +1,7 @@
 ﻿//теперь тут всё закоментить нужно, ибо я гляну, в ахуе буду
 using System;
 using System.ComponentModel;// для использования TypeDescriptor
-namespace FullProject
+namespace FullProjectNet5
 {
     public static class Checker
     {

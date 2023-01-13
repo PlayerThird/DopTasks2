@@ -1,15 +1,13 @@
 ﻿//Формируется массив из n целых случайных чисел от -50 до 50
 //Массив упорядочивается. Выводятся числа в интервале от -20 до 20
+using FullProjectNet5;
 using System;
 using System.Linq;
 
-namespace FullProject
+namespace FullProjectNet5
 {
     internal class Task6
     {
-        public Task6()
-        {
-        }
         internal void Start()
         {
 
